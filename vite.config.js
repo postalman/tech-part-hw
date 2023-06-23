@@ -5,7 +5,5 @@ import react from '@vitejs/plugin-react'
 export default defineConfig({
   base: '/tech-part-hw/',
   plugins: [react()],
-  ssr: {
-    external: ['react-router-dom'],
-  },
+  
 })
