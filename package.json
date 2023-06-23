@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://postalman.github.io/tech-part-hw",
+  "homepage": "https://postalman.github.io/tech-part-hw/",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
