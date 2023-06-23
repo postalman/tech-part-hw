@@ -19,7 +19,7 @@ This repository contains a React application that includes a navigation componen
 #### 2. Install the dependencies:
 
   ```bash
-  cd your-repository
+  cd tech-part-hw
   npm install
   ```
 
